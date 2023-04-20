@@ -1,0 +1,26 @@
+:host{
+    color:rgb(32, 32, 32)
+    }
+    
+    .reservation-card {
+      margin: 20px auto;
+        max-width: 800px;
+    }
+
+        mat-form-field{
+          margin: 10px 0;
+        
+    }
+
+    .full-width{
+       width: 100%; 
+    
+
+
+      }
+
+      mat-card-action button {
+        margin-left: 10px;
+      }
+      
+    

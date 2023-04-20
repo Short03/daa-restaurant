@@ -1,0 +1,16 @@
+:host{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    width: 100%;
+}
+
+h1{
+    font-size: 5rem;
+}
+
+
+button{
+    margin: 20px;
+}
